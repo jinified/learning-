@@ -2,7 +2,7 @@
 # Links and resources 
 
 ## Coding guide
-### Linux kernel 
-https://github.com/jinified/learning-/edit/master/README.md
+### 1. Linux kernel 
+https://www.kernel.org/doc/Documentation/CodingStyle
 
 
